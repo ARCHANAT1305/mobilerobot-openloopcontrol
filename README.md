@@ -89,12 +89,10 @@ if _name_ == '_main_':
     time.sleep(4)
     ep_camera.stop_video_stream()
     print("Stopped video streaming.....")
-
-
 ```
 
-## MobileRobot Movement Image:
 
+## MobileRobot Movement Image:
 ![robot 2](https://github.com/ARCHANAT1305/mobilerobot-openloopcontrol/assets/145975189/994ef5eb-10ab-4456-818d-07107e02eb1c)
 ![robot3](https://github.com/ARCHANAT1305/mobilerobot-openloopcontrol/assets/145975189/c7182fc0-51a7-4880-9c4b-d46175abb639)
 
